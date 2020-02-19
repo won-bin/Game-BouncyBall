@@ -10,4 +10,5 @@ Preview
 How to play
 ---
 방향키 : 이동
+
 스페이스바 : 아이템
