@@ -8,13 +8,13 @@ Preview
 
 Developer
 ---
-+ 서원빈
-+ 박희재
-+ 김우용
+* 서원빈
+* 박희재
+* 김우용
 
 Development Tools
 ---
-Eclipse
+* Eclipse
 
 Language
 ---
@@ -23,5 +23,5 @@ Language
 
 How to play
 ---
-+ 방향키 : 이동
-+ 스페이스바 : 아이템 사용
+* 방향키 : 이동
+* 스페이스바 : 아이템 사용
