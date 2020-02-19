@@ -16,6 +16,7 @@ Language
 ---
 * HTML, CSS, JavaScript
 * jQuery 1.12.4
+
 How to play
 ---
 + 방향키 : 이동
