@@ -9,9 +9,7 @@ Preview
 Developer
 ---
 + 서원빈
-
 + 박희재
-
 + 김우용
 
 How to play
