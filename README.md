@@ -12,6 +12,10 @@ Developer
 + 박희재
 + 김우용
 
+Language
+---
+* HTML, CSS, JavaScript
+* jQuery 1.12.4
 How to play
 ---
 + 방향키 : 이동
