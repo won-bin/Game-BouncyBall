@@ -6,6 +6,13 @@ Preview
 ![Level 1](https://user-images.githubusercontent.com/60736222/74797941-bedd2400-530f-11ea-8845-346280d25f45.PNG)
 ![Level 2](https://user-images.githubusercontent.com/60736222/74797688-0a430280-530f-11ea-818e-d079f1444db0.PNG)
 
+Developer
+---
+서원빈
+
+박희재
+
+서원빈
 
 How to play
 ---
