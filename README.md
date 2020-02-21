@@ -8,7 +8,7 @@ Preview
 
 Developer
 ---
-* 서원빈
+* 서원빈(won-bin)
 * 박희재
 * 김우용
 
